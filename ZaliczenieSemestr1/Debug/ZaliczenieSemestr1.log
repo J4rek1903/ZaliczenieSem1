@@ -1,0 +1,3 @@
+﻿  ZaliczenieSemestr1.cpp
+g:\codingtutorials\cplusplus\zaliczeniesemestr1\zaliczeniesemestr1\zaliczeniesemestr1.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ZaliczenieSemestr1.vcxproj -> G:\CodingTutorials\CplusPlus\ZaliczenieSemestr1\Debug\ZaliczenieSemestr1.exe
